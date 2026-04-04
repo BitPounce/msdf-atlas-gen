@@ -22,6 +22,7 @@ project "msdf-atlas-gen"
 	{
 		"msdf-atlas-gen",
 		"msdfgen",
+		"msdfgen/core",
 		"msdfgen/include",
 		"artery-font-format/artery-font",
 		"artery-font-format"
