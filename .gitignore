@@ -27,3 +27,5 @@ out/
 bin-int
 bin
 Makefile
+/msdf-atlas-gen.vcxproj
+/msdf-atlas-gen.vcxproj.filters
